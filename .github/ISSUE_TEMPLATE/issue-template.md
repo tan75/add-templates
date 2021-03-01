@@ -22,7 +22,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Please complete the following information:**
  - date-fns version
- - Browser and its's version
+ - browser and its's version
 
 **Additional context**
 Add any other context about the problem here.
